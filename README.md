@@ -6,7 +6,7 @@
 This is a basic stock price app which lets you to enter ticker symbol and limeline.
 Build using python and streamlit a amazing python library to make simple web apps.
 
-[Click here for Demo:](https://share.streamlit.io/aadityansha/stock-price-app/main/app.py)
+[Click here for Demo :)](https://share.streamlit.io/aadityansha/stock-price-app/main/app.py)
 ## Installation
 
 You can download project `zip` file or clone repository. Then run the following commands.
